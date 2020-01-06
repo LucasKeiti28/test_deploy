@@ -8,7 +8,7 @@ import Tokyo from './assets/tokyo.jpeg';
 
 const App = () => (
   <View style={styles.container}>
-    <Text style={styles.text}> Test Deploy App 2020 </Text>
+    <Text style={styles.text}> Test Deploy App 2020 v2 </Text>
     <Image source={Tokyo} style={styles.image} />
   </View>
 );

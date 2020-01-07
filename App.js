@@ -33,7 +33,7 @@ class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}> Test Deploy App 2020 v2 </Text>
+        <Text style={styles.text}> Test Deploy App 2020 v3 </Text>
         <Image source={Tokyo} style={styles.image} />
       </View>
     );

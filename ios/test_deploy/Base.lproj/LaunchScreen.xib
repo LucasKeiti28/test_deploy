@@ -25,6 +25,6 @@
         </view>
     </objects>
     <resources>
-        <image name="japan" width="512" height="512"/>
+        <image name="japan" width="1024" height="1024"/>
     </resources>
 </document>

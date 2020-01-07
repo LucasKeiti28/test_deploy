@@ -42,12 +42,12 @@ target 'test_deploy' do
   use_native_modules!
 end
 
-target 'test_deploy-tvOS' do
-  # Pods for test_deploy-tvOS
+# target 'test_deploy-tvOS' do
+#   # Pods for test_deploy-tvOS
 
-  target 'test_deploy-tvOSTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
+#   target 'test_deploy-tvOSTests' do
+#     inherit! :search_paths
+#     # Pods for testing
+#   end
 
-end
+# end
